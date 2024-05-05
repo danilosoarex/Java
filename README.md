@@ -7,9 +7,9 @@ Cursos Alura Concluídos:
 - [Java JRE e JDK: compile e execute o seu programa](https://unibb.alura.com.br/course/java-primeiros-passos)
 - [Java OO: entendendo a Orientação a Objetos](https://unibb.alura.com.br/course/java-introducao-orientacao-objetos)
 - [Java Polimorfismo: entenda herança e interfaces](https://unibb.alura.com.br/course/java-heranca-interfaces-polimorfismo)
+- [Java: trabalhando com listas e coleções de dados](https://unibb.alura.com.br/course/java-listas-colecoes-dados)
 
 Próximos Cursos:
-- [Java: trabalhando com listas e coleções de dados](https://unibb.alura.com.br/course/java-listas-colecoes-dados)
 - [Java: consumindo API, gravando arquivos e lidando com erros](https://unibb.alura.com.br/course/java-consumindo-api-gravando-arquivos-lidando-erros)
 - [Java Exceções: aprenda a criar, lançar e controlar exceções](https://unibb.alura.com.br/course/java-excecoes)
 - [Java e java.lang: programe com a classe Object e String](https://unibb.alura.com.br/course/java-pacotes-e-java-lang)
