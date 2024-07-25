@@ -9,10 +9,10 @@ Cursos Alura Concluídos:
 - [Java Polimorfismo: entenda herança e interfaces](https://unibb.alura.com.br/course/java-heranca-interfaces-polimorfismo)
 - [Java: trabalhando com listas e coleções de dados](https://unibb.alura.com.br/course/java-listas-colecoes-dados)
 - [Java: consumindo API, gravando arquivos e lidando com erros](https://unibb.alura.com.br/course/java-consumindo-api-gravando-arquivos-lidando-erros)
-
-Próximos Cursos:
 - [Java Exceções: aprenda a criar, lançar e controlar exceções](https://unibb.alura.com.br/course/java-excecoes)
 - [Java e java.lang: programe com a classe Object e String](https://unibb.alura.com.br/course/java-pacotes-e-java-lang)
+
+Próximos Cursos:
 - [Java e java.util: Coleções, Wrappers e Lambda expressions](https://unibb.alura.com.br/course/java-util-lambdas)
 - [Java e java.io: Streams, Reader e Writers](https://unibb.alura.com.br/course/java-trabalhando-com-io)
 - [Java Collections: Dominando Listas, Sets e Mapas](https://unibb.alura.com.br/course/java-collections)
