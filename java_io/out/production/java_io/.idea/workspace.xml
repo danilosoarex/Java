@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efebc10d-b68a-42c8-8485-f6aef048e31f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/br/com/alura/java/io/teste/TesteEscrita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/br/com/alura/java/io/teste/TesteInputTeclado.java" afterDir="false" />
+    <list default="true" id="973079c2-4bc6-4a30-b085-e00ef62210b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/alura/java/io/teste/TesteUnicodeEEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/alura/java/io/teste/TesteUnicodeEEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_io/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_io/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_io/br/com/alura/java/io/teste/TesteUnicodeEEncoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_io/br/com/alura/java/io/teste/TesteUnicodeEEncoding.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,7 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2owzXQUrsATRkDNdW0ob7Tdj2l2" />
+  <component name="ProjectId" id="2p8mol9DrGWTDMmw9kDadrNm6rZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -34,27 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TesteCopiarArquivo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteEscrita.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteEscrita2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteEscrita3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteInputTeclado.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteLeitura.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TesteLeitura.executor": "Run",
+    "Application.TesteLeitura2.executor": "Run",
+    "Application.TesteSerializacao.executor": "Run",
+    "Application.TesteUnicodeEEncoding.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Danilo/Documents/CURSOS/Java/Java_io"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Danilo\Documents\CURSOS\Java\java_io" />
-      <recent name="C:\Users\Danilo\Documents\CURSOS\Java\java_io\br\com\alura\java\io\teste" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="br.com.alura.java.io.teste" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Danilo\Documents\CURSOS\Java\Java_io" />
+      <recent name="C:\Users\Danilo\Documents\CURSOS\Java\Java_io\br\com\alura\java\io\teste" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -67,11 +65,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="efebc10d-b68a-42c8-8485-f6aef048e31f" name="Changes" comment="" />
-      <created>1731795466399</created>
+      <changelist id="973079c2-4bc6-4a30-b085-e00ef62210b9" name="Changes" comment="" />
+      <created>1732156253828</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731795466399</updated>
+      <updated>1732156253828</updated>
     </task>
     <servers />
   </component>
