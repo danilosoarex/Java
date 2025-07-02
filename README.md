@@ -11,12 +11,12 @@ Cursos Alura Concluídos:
 - [Java: consumindo API, gravando arquivos e lidando com erros](https://unibb.alura.com.br/course/java-consumindo-api-gravando-arquivos-lidando-erros)
 - [Java Exceções: aprenda a criar, lançar e controlar exceções](https://unibb.alura.com.br/course/java-excecoes)
 - [Java e java.lang: programe com a classe Object e String](https://unibb.alura.com.br/course/java-pacotes-e-java-lang)
-
-Próximos Cursos:
 - [Java e java.util: Coleções, Wrappers e Lambda expressions](https://unibb.alura.com.br/course/java-util-lambdas)
 - [Java e java.io: Streams, Reader e Writers](https://unibb.alura.com.br/course/java-trabalhando-com-io)
 - [Java Collections: Dominando Listas, Sets e Mapas](https://unibb.alura.com.br/course/java-collections)
 - [Java 8: conheça as novidades dessa versão](https://unibb.alura.com.br/course/java8-lambdas)
+
+Próximos Cursos:
 - [TDD e Java: testes automatizados com JUnit](https://unibb.alura.com.br/course/tdd-java-testes-automatizados-junit)
 - [Maven: gerenciamento de dependências e build de aplicações Java](https://unibb.alura.com.br/course/maven-gerenciamento-dependencias-build-aplicacoes-java)
 - [Java e Quarkus: Supersônico e Subatômico](https://unibb.alura.com.br/course/java-supersonico-subatomico-quarkus)
