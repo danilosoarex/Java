@@ -9,5 +9,5 @@ import java.util.List;
 public record DadosTemporada(@JsonAlias("Title") String titulo,
                              @JsonAlias("Season") Integer temporada,
                              @JsonAlias("totalSeasons") String totalTemporadas,
-                             @JsonAlias("Episodes") List<DadosTodosEpisodios> episodios){
+                             @JsonAlias("Episodes") List<DadosEpisodio> episodios){
 }
