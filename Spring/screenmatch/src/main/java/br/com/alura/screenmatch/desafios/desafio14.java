@@ -11,19 +11,19 @@ import java.util.stream.Collectors;
 
 public class desafio14 {
     public static void main(String[] args) {
-        List<desafio14Produto> produtos = Arrays.asList(
-                new desafio14Produto("Smartphone", 800.0, "Eletrônicos"),
-                new desafio14Produto("Notebook", 1500.0, "Eletrônicos"),
-                new desafio14Produto("Teclado", 200.0, "Eletrônicos"),
-                new desafio14Produto("Cadeira", 300.0, "Móveis"),
-                new desafio14Produto("Monitor", 900.0, "Eletrônicos"),
-                new desafio14Produto("Mesa", 700.0, "Móveis")
+        List<desafioProduto> produtos = Arrays.asList(
+                new desafioProduto("Smartphone", 800.0, "Eletrônicos"),
+                new desafioProduto("Notebook", 1500.0, "Eletrônicos"),
+                new desafioProduto("Teclado", 200.0, "Eletrônicos"),
+                new desafioProduto("Cadeira", 300.0, "Móveis"),
+                new desafioProduto("Monitor", 900.0, "Eletrônicos"),
+                new desafioProduto("Mesa", 700.0, "Móveis")
         );
 
-        List<desafio14Produto> produtosOrdenados = produtos.stream()
+        List<desafioProduto> produtosOrdenados = produtos.stream()
                 .filter(p -> p.getCategoria().equalsIgnoreCase("Eletrônicos"))
                 .filter(p -> p.getPreco() <= 1000)
-                .sorted(Comparator.comparing(desafio14Produto::getPreco))
+                .sorted(Comparator.comparing(desafioProduto::getPreco))
                 .collect(Collectors.toList());
 
         produtosOrdenados.forEach(System.out::println);
