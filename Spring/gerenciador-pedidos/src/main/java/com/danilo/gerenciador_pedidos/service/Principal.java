@@ -24,12 +24,14 @@ public class Principal implements CommandLineRunner {
     @Override
     public void run(String[] args) throws Exception {
 
-        Produto produto = new Produto("Joelheira do Memphis", 100.00);
-        Categoria categoria = new Categoria(1L, "Itens");
+        Produto produto = new Produto("Camisa do Corinthians", 250.00);
+        Categoria categoria = new Categoria(1L, "Futebol");
         Pedido pedido = new Pedido(1L, LocalDate.now());
 
         produtoRepository.save(produto);
         pedidoRepository.save(pedido);
         categoriaRepository.save(categoria);
+
     }
+
 }

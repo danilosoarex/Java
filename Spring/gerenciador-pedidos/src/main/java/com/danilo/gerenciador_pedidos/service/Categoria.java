@@ -3,6 +3,9 @@ package com.danilo.gerenciador_pedidos.service;
 import com.danilo.gerenciador_pedidos.repository.CategoriaRepository;
 import jakarta.persistence.*;
 
+import java.util.ArrayList;
+import java.util.List;
+
 @Entity
 @Table(name = "categorias")
 public class Categoria {
@@ -10,6 +13,9 @@ public class Categoria {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
+
+    @OneToMany(mappedBy = "categoria", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+    private List<Produto> produtos = new ArrayList<>();
 
     public Categoria(){
 
@@ -34,5 +40,14 @@ public class Categoria {
 
     public void setNome(String nome) {
         this.nome = nome;
+    }
+
+    public List<Produto> getProdutos() {
+        return produtos;
+    }
+
+    public void setProdutos(List<Produto> produtos) {
+        produtos.forEach(p -> p.setCategoria(this));
+        this.produtos = produtos;
     }
 }
